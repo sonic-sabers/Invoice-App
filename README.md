@@ -2,7 +2,11 @@ Demo link : https://drive.google.com/file/d/1GTwKIh1YqGJY_OgSbk09McX-8HU9-19r/vi
 
 |                           Demo                        |  
 :-----------------------------------------------------------: 
-https://github.com/sonic-sabers/Invoice-App/assets/73551845/9061d713-2d3c-4a0b-baa4-ca056fb65cac
+
+
+https://github.com/sonic-sabers/Invoice-App/assets/73551845/ab60fd4b-dc2a-4d81-888c-cfa77781a76c
+
+
 
 
 # Getting Started
