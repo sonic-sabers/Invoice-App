@@ -2,7 +2,9 @@ Demo link : https://drive.google.com/file/d/1GTwKIh1YqGJY_OgSbk09McX-8HU9-19r/vi
 
 |                           Demo                        |  
 | :-----------------------------------------------------------: 
-![](/Updated%20Invoice.mp4)| 
+![](https://github.com/sonic-sabers/Invoice-App/assets/73551845/9061d713-2d3c-4a0b-baa4-ca056fb65cac)| 
+
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
